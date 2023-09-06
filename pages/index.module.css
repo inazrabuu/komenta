@@ -65,3 +65,6 @@
   font-weight: bold;
   margin-top: 40px;
 }
+.main textarea {
+  margin: 10px 0px;
+}
