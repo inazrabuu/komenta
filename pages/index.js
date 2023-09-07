@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Komenta Nojorono</title>
+        <title>Dikluarken Nojorono</title>
         <link rel="icon" href="/dog.png" />
       </Head>
 
