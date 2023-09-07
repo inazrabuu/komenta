@@ -40,7 +40,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <img src="/dog.png" className={styles.icon} />
-        <h1>Komenta Nojorono</h1>
+        <h1>Komenta Nojorono: Dikluarken</h1>
         <h3>Insert the post's caption / image's description</h3>
         <form onSubmit={onSubmit}>
           <textarea name="caption" placeholder="Enter the caption" rows="4" value={captionInput} onChange={(e) => setCaptionInput(e.target.value)}>
